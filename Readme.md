@@ -20,3 +20,6 @@ Matlab2017a
 ## Reference
 
 [Xiaoyuan Guo, Hanyi Yu, Blair Rossetti, George Teodoro, Daniel Brat, Jun Kong, “Clumped Nuclei Segmentation with Adjacent Point Match and Local Shape-Based Intensity Analysis in Fluorescence Mi- croscopy Images,” IEEE International Conference on Engineering in Medicine and Biology, pp.3410-3413, Honolulu, HI, 2018.](https://www.ncbi.nlm.nih.gov/pubmed/30441120)
+
+## License
+This tool is available under the GNU General Public License (GPL) (https://www.gnu.org/licenses/gpl-3.0.en.html) and the LGPL (https://www.gnu.org/licenses/lgpl-3.0.en.html).
